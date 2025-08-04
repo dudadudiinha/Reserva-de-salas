@@ -14,7 +14,7 @@ Representa um espaço físico que pode ser reservado. Contém todas as informaç
 Entidade central que armazena os detalhes de um agendamento feito por um usuário para uma sala específica.
 
 #### Avaliação:
-##### Descrição: 
+- ##### Descrição: 
 Representa o feedback do usuário sobre a reserva de uma sala.
 
 #### E-mail:
