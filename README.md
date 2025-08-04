@@ -13,4 +13,5 @@ Documentação do projeto desenvolvido como atividade da disciplina de APOO e Ba
 3 - Avaliar Solicitação
 
 [Para mais detalhes, acesse o link](casos-de-uso.md)
-![Para ver o diagrama de classes, acesse o link]()
+
+![Para ver o diagrama de classes, acesse o link](imagens/diagrama-casos-uso.png)
