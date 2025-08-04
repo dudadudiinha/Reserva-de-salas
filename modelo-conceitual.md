@@ -2,8 +2,8 @@
 ## Modelo Conceitual
 ### Descrição das Classes
 #### Usuário:
-- ##### Descrição: 
-Representa qualquer pessoa que interage com o sistema, podendo ter diferentes perfis (Cliente, Administrador, etc.).
+- ##### Descrição:
+- Representa qualquer pessoa que interage com o sistema, podendo ter diferentes perfis (Cliente, Administrador, etc.).
 
 #### Sala:
 - ##### Descrição: 
