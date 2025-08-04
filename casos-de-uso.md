@@ -71,7 +71,7 @@ Avaliador
 
 - O sistema notifica o Cliente sobre a decisão.
 #### Fluxos Alternativos: 
-Nenhum fluxo alternativo.
+Nenhum fluxo alternativo identificado neste caso de uso.
 #### Pré-condições:
 - O Avaliador deve estar autenticado no sistema.
 
