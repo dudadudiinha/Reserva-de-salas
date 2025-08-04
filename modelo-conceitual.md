@@ -31,16 +31,6 @@ id_reserva, data_h_inicio, data_h_fim, status.
 - ##### Relacionamentos: 
 Uma reserva é solicitada por um Usuario , está associada a um Espaco (horário) específico e é analisada por um Avaliador.
 
-#### Espaço:
-- ##### Descrição: 
-Representa um bloco de tempo disponível para uma determinada sala. Funciona como uma entidade associativa que conecta Sala e Reserva.
-
-- ##### Atributos Principais: 
-id_espaco.
-
-- ##### Relacionamentos: 
-Um espaço pertence a uma única Sala e pode estar vinculado a múltiplas Reservas (em caso de histórico).
-
 #### Avaliador:
 ##### Descrição: 
 Representa o usuário com permissão para aprovar ou recusar uma solicitação de reserva.
