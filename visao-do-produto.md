@@ -16,6 +16,6 @@ Os principais usuários do sistema são:
 - Avaliação e Relatórios: Possibilitar que os clientes avaliem as salas após o uso e gerar relatórios administrativos sobre a taxa de ocupação e horários mais demandados.
 
 ### Restrições e Premissas
-- O sistema deve ser desenvolvido para uso em navegadores web.
+- O sistema deve ser desenvolvido para uso em navegadores web e mobile.
 - A solução é baseada no estudo de caso apresentado na disciplina de Banco de Dados.
 - O projeto final, incluindo toda a documentação, deve ser organizado e publicado em um repositório no GitHub.
