@@ -6,4 +6,4 @@ Documentação do projeto desenvolvido como atividade da disciplina de APOO e Ba
 Para mais detalhes, acesse o arquivo: (visao-do-produto.md)
 
 ## Casos de Uso
-[Para mais detalhes, acesse o link] casos-de-uso.md
+[Para mais detalhes, acesse o link] (casos-de-uso.md)
