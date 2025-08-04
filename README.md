@@ -15,3 +15,6 @@ Documentação do projeto desenvolvido como atividade da disciplina de APOO e Ba
 [Para mais detalhes, acesse o link](casos-de-uso.md)
 
 [Para ver o diagrama de classes, acesse o link](imagens/diagrama-casos-uso.png)
+
+## Modelo Conceitual  
+O modelo conceitual representa as principais classes de análise do sistema, seus atributos e os relacionamentos entre elas. Ele foi baseado no Diagrama Entidade-Relacionamento (ER) do projeto de Banco de Dados.
