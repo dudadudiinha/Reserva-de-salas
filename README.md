@@ -28,7 +28,7 @@ O modelo conceitual representa as principais classes de análise do sistema, seu
 
 - Markdown: Usado para escrever os arquivos de documentação do projeto, como o README.md, visao-do-produto.md, e outros.
 
-- Astah - Ferramenta de Diagramação: Essa ferramenta foi utilizada para desenhar os diagramas, como o Diagrama de Casos de Uso e o Modelo Conceitual.
+- Astah: Essa ferramenta foi utilizada para desenhar os diagramas, como o Diagrama de Casos de Uso e o Modelo Conceitual.
 
 ## Equipe:
 |     Alunas     |   Matrícula   |
