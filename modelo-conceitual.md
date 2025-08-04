@@ -3,7 +3,7 @@
 ### Descrição das Classes
 #### Usuário:
 - ##### Descrição:
-- Representa qualquer pessoa que interage com o sistema, podendo ter diferentes perfis (Cliente, Administrador, etc.).
+Representa qualquer pessoa que interage com o sistema, podendo ter diferentes perfis (Cliente, Administrador, etc.).
 
 #### Sala:
 - ##### Descrição: 
@@ -15,7 +15,7 @@ Entidade central que armazena os detalhes de um agendamento feito por um usuári
 
 #### Avaliação:
 ##### Descrição: 
- Representa o feedback do usuário sobre a reserva de uma sala.
+Representa o feedback do usuário sobre a reserva de uma sala.
 
 #### E-mail:
 - ##### Descrição: 
