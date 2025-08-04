@@ -22,3 +22,17 @@ O modelo conceitual representa as principais classes de análise do sistema, seu
 [Para mais detalhes, acesse o link](modelo-conceitual.md)
 
 [Para ver o diagrama de classes, acesse o link](imagens/modelo-conceitual.png)
+
+## Tecnologias Utilizadas
+- GitHub: Utilizado para hospedar o repositório do projeto e organizar toda a documentação.
+
+- Markdown: Usado para escrever os arquivos de documentação do projeto, como o README.md, visao-do-produto.md, e outros.
+
+- Astah - Ferramenta de Diagramação: Essa ferramenta foi utilizada para desenhar os diagramas, como o Diagrama de Casos de Uso e o Modelo Conceitual.
+
+## Equipe:
+|     Alunas     |   Matrícula   |
+| -------------- | ------------- |
+|Carolina Costa  |20241011110037 |
+|Eduarda Moura   |20241011110021 |
+|Eduarda Medeiros|20241011110014 |
