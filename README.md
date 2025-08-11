@@ -10,7 +10,7 @@ Documentação do projeto desenvolvido como atividade da disciplina de APOO e Ba
 
 2 - Solicitar Reserva
 
-3 - Avaliar Solicitação
+3 - Avaliar Solicitação de Reserva
 
 [Para mais detalhes, acesse o link](casos-de-uso.md)
 
