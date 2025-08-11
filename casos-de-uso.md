@@ -1,6 +1,6 @@
 # Reserva de Salas
 ## Casos de Uso
-### 1 - Realizar Cadastro
+### 1 - Cadastrar Salas
 
 #### Nome do Caso de Uso: 
 Realizar Cadastro
@@ -52,7 +52,7 @@ A. Conflito de Horário: Se o sistema detectar um conflito de horário no passo 
 #### Pós-condições:
 - Uma nova solicitação de reserva é registrada no sistema com status "pendente".
 
-### 3 - Avaliar Solicitação
+### 3 - Avaliar Solicitação de Reserva
 
 #### Nome do Caso de Uso: 
 Avaliar Solicitação
