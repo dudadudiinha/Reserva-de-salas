@@ -6,7 +6,7 @@ Documentação do projeto desenvolvido como atividade da disciplina de APOO e Ba
 [Para ver a visão do produto, acesse o link](visao-do-produto.md)
 
 ## Casos de Uso
-1 - Realizar Cadastro
+1 - Cadastrar Sala
 
 2 - Solicitar Reserva
 
