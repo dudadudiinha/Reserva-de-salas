@@ -18,7 +18,7 @@ Administrador
 - O sistema valida as informações e salva a nova sala no banco de dados.
 
 - O sistema exibe uma mensagem de sucesso, e a nova sala fica disponível para consultas e reservas.
-#### Fluxos Alternativos:
+#### Fluxos de Excessão:
 A. Dados Inválidos: Se o Administrador submeter o formulário com dados incompletos ou em formato incorreto, o sistema exibirá uma mensagem de erro indicando os campos que precisam ser corrigidos. O fluxo retorna ao passo 3.
 #### Pré-condições:
 - O Administrador deve estar autenticado no sistema (ter realizado login).
@@ -44,7 +44,7 @@ Cliente
 
 - O sistema notifica o Cliente de que a solicitação foi enviada e está aguardando aprovação.
 
-#### Fluxos Alternativos:
+#### Fluxos de Excessão:
 A. Conflito de Horário: Se o sistema detectar um conflito de horário no passo 4, ele informará ao Cliente que o período selecionado não está disponível. O fluxo retorna ao passo 2, para que o Cliente possa escolher outro horário.
 #### Pré-condições:
 - O Cliente deve estar autenticado no sistema.
@@ -70,8 +70,8 @@ Avaliador
 - O sistema atualiza o status da reserva para "Aprovada" ou "Recusada".
 
 - O sistema notifica o Cliente sobre a decisão.
-#### Fluxos Alternativos: 
-Nenhum fluxo alternativo identificado neste caso de uso.
+#### Fluxos de Excessão: 
+Nenhum fluxo de excessão identificado neste caso de uso.
 #### Pré-condições:
 - O Avaliador deve estar autenticado no sistema.
 
